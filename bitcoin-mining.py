@@ -16,9 +16,6 @@ transactions to see how it affects the mining time.
 
 Created by Evgeni Semenov, dev@safemail.sbs
 '''
-
-
-
 from time import time
 from hashlib import sha256
 
